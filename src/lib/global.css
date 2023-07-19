@@ -1,0 +1,69 @@
+@font-face {
+	font-family: 'NuevaStd-Cond';
+	src: url(fonts/NuevaStd-Cond.ttf);
+}
+
+@font-face {
+	font-family: liberation-sans;
+	src: url(fonts/LiberationSans.ttf);
+}
+
+
+h1 {
+	font-size: 40px;
+	margin-bottom: 16px;
+}
+
+h2 {
+	font-size: 28px;
+}
+
+p {
+	font-family: 'liberation-sans', sans-serif;
+	font-size: 18px;
+}
+
+*,
+*::after,
+*::before {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+body {
+	background: url(images/main-background.jpg) no-repeat center center fixed;
+	background-size: cover;
+	background-color: #464646;
+	font-family: 'NuevaStd-Cond', sans-serif;
+	font-size: 1rem;
+	font-weight: 400;
+	width: 100dvw;
+	font-size: 22px;
+	font-family: 'NuevaStd-Cond', sans-serif;
+	font-weight: 400;
+
+
+}
+
+
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	color: #fff;
+	font-weight: 400;
+}
+
+
+a {
+	color: white;
+	text-decoration: none;
+}
