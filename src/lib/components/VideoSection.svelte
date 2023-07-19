@@ -4,7 +4,7 @@
 
 <section id="home">
 	<main>
-		<img src="images/cristales-banner.webp" alt="CrisTales" />
+		<img src="/images/cristales-banner.webp" alt="CrisTales" />
 		<h1>Available Now</h1>
 		<div>
 			<Button --text-color="#fff">Stay Updated</Button>

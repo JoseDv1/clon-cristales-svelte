@@ -22,7 +22,7 @@
 	::before,
 	::after {
 		content: '';
-		background-image: url(images/corners/blue-corner.png);
+		background-image: url('/images/corners/blue-corner.png');
 		background-size: 100% 100%;
 		background-repeat: no-repeat;
 		position: absolute;

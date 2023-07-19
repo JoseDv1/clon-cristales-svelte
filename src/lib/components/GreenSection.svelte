@@ -94,7 +94,7 @@
 	}
 
 	.features p::before {
-		background: url('images/bullet.webp');
+		background: url('/images/bullet.webp');
 		content: '';
 		height: 32px;
 		width: 32px;

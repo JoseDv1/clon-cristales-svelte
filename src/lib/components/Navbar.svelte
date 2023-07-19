@@ -1,5 +1,5 @@
 <nav>
-	<img src="images/cristales-logo.png" alt="Cristales" />
+	<img src="/images/cristales-logo.png" alt="Cristales" />
 	<ul>
 		<li><a href="#home">Home</a></li>
 		<li><a href="#about">About</a></li>

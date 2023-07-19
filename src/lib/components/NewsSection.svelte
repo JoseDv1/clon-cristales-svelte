@@ -24,7 +24,7 @@
 		</PinkCard>
 		<BlueCard>
 			<div>
-				<img src="images/news/latestnews.jpg" alt="Latest news" />
+				<img src="/images/news/latestnews.jpg" alt="Latest news" />
 				<h2>Keep Up with the Latest Patch Notes for Cris Tales Here</h2>
 
 				<small>August 30, 2021</small>
@@ -39,7 +39,7 @@
 		</BlueCard>
 		<GreenCard>
 			<div>
-				<img src="images/news/cristalespreviewround.jpg" alt=" Preview" />
+				<img src="/images/news/cristalespreviewround.jpg" alt=" Preview" />
 				<h2>Cris Tales Preview Round-Up</h2>
 
 				<small>June 16, 2021</small>

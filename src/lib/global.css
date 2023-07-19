@@ -1,11 +1,11 @@
 @font-face {
 	font-family: 'NuevaStd-Cond';
-	src: url('fonts/NuevaStd-Cond.ttf');
+	src: url('/fonts/NuevaStd-Cond.ttf');
 }
 
 @font-face {
 	font-family: liberation-sans;
-	src: url('fonts/LiberationSans.ttf');
+	src: url('/fonts/LiberationSans.ttf');
 }
 
 
@@ -36,7 +36,7 @@ html {
 }
 
 body {
-	background: url('images/main-background.jpg') no-repeat center center fixed;
+	background: url('/images/main-background.jpg') no-repeat center center fixed;
 	background-size: cover;
 	background-color: #464646;
 	font-family: 'NuevaStd-Cond', sans-serif;

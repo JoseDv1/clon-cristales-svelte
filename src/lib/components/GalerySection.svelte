@@ -7,12 +7,12 @@
 
 	<GreenCard>
 		<section class="galery">
-			<div><img src="images/galery/galery-1.jpg" alt="Galery" /></div>
-			<div><img src="images/galery/galery-2.jpg" alt="Galery" /></div>
-			<div><img src="images/galery/galery-3.jpg" alt="Galery" /></div>
-			<div><img src="images/galery/galery-4.jpg" alt="Galery" /></div>
-			<div><img src="images/galery/galery-5.jpg" alt="Galery" /></div>
-			<div><img src="images/galery/galery-6.jpg" alt="Galery" /></div>
+			<div><img src="/images/galery/galery-1.jpg" alt="Galery" /></div>
+			<div><img src="/images/galery/galery-2.jpg" alt="Galery" /></div>
+			<div><img src="/images/galery/galery-3.jpg" alt="Galery" /></div>
+			<div><img src="/images/galery/galery-4.jpg" alt="Galery" /></div>
+			<div><img src="/images/galery/galery-5.jpg" alt="Galery" /></div>
+			<div><img src="/images/galery/galery-6.jpg" alt="Galery" /></div>
 		</section>
 	</GreenCard>
 </section>

@@ -9,23 +9,23 @@
 	</div>
 
 	<div class="platforms">
-		<img src="images/platforms/switch.webp" alt="Nintendo Switch" />
-		<img src="images/platforms/ps4.png" alt="ps4" />
-		<img src="images/platforms/ps5.png" alt="ps5" />
-		<img src="images/platforms/xboxone.png" alt="Xbox One" />
-		<img src="images/platforms/xboxx.png" alt="Xbox Series X" />
-		<img src="images/platforms/steam.png" alt="Steam" />
-		<img src="images/platforms/stadia.png" alt="Google Stadia" />
-		<img src="images/platforms/epicgames.png" alt="Epic Games" />
-		<img src="images/platforms/gogcom.png" alt="Gog Com" />
+		<img src="/images/platforms/switch.webp" alt="Nintendo Switch" />
+		<img src="/images/platforms/ps4.png" alt="ps4" />
+		<img src="/images/platforms/ps5.png" alt="ps5" />
+		<img src="/images/platforms/xboxone.png" alt="Xbox One" />
+		<img src="/images/platforms/xboxx.png" alt="Xbox Series X" />
+		<img src="/images/platforms/steam.png" alt="Steam" />
+		<img src="/images/platforms/stadia.png" alt="Google Stadia" />
+		<img src="/images/platforms/epicgames.png" alt="Epic Games" />
+		<img src="/images/platforms/gogcom.png" alt="Gog Com" />
 	</div>
 
 	<img src="/images/ESRB.png" alt="ESRB" />
 
 	<div class="devs">
-		<img src="images/devs/moduslogo.png" alt="" />
-		<img src="images/devs/dreamlogo.png" alt="" />
-		<img src="images/devs/sycklogo.png" alt="" />
+		<img src="/images/devs/moduslogo.png" alt="" />
+		<img src="/images/devs/dreamlogo.png" alt="" />
+		<img src="/images/devs/sycklogo.png" alt="" />
 	</div>
 
 	<p>
